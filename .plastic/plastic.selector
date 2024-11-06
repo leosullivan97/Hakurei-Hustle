@@ -1,0 +1,4 @@
+repository "Hakurei Hustle@sleepypilledslumbercel@cloud"
+  path "/"
+    br "/main"
+    co "/main"

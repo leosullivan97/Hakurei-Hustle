@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5a0fa5b3cd6c68148bc9de26d3cb05e0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sceneTransitionSound: {fileID: 8300000, guid: c0cabce778ad54792bba3a0ca6765417, type: 3}
+  - transitionAnim: {instanceID: 0}
+  - coinText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
